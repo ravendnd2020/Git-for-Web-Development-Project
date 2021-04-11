@@ -18,15 +18,16 @@ https://codepen.io/RavenDnD2020/pen/mdRpYzz?editors=1100
 13. target=_blank
 14. A description of the photo
 15. #
-16.
+16. A div is a generic block of code we want to do something with. if the information is 
+very related its better to use section.
 17. Style html elements.
 18. by using its selector such as h2 followed by {}
 19. A class can be used infinite amount of times. and Id only once
 20. a dot
 21. p .human {}
-22. 
+22. A parent child selector allows you to choose a specific item within a parent 
 23. .sidebar
-24. 
+24. A psuedo selector is an extension to a selector that are advanced elements
 25. line-height;
 26. letter-spacing;
 27. text-transform: capitals, lowercase, uppercase
