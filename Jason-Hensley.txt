@@ -1,0 +1,56 @@
+https://codepen.io/RavenDnD2020/pen/mdRpYzz?editors=1100
+
+
+
+
+1. Semantic HTML is a way to indicate html elements very specifically.
+2. HTML is used for basic foundation markup
+3. An attribute alters an element, goes inside opening tag of element to be affected.
+4. H1 tag is used to indicate the main theme of the subject, 1x per page.
+5. <a> <img>
+6. title, links, styles, metadata
+7. An id is a css selector and label
+8. Any element. 
+9. 1 id per page
+10.A class is a css selector and label
+11. Any element you choose.
+12. unlimited
+13. target=_blank
+14. A description of the photo
+15. #
+16. A div is a generic block of code we want to do something with. if the information is 
+very related its better to use section.
+17. Style html elements.
+18. by using its selector such as h2 followed by {}
+19. A class can be used infinite amount of times. and Id only once
+20. a dot
+21. p .human {}
+22. A parent child selector allows you to choose a specific item within a parent 
+23. .sidebar
+24. A psuedo selector is an extension to a selector that are advanced elements
+25. line-height;
+26. letter-spacing;
+27. text-transform: capitals, lowercase, uppercase
+28. div{
+	border: 1px dotted black;
+}
+29. *
+30. /**/
+31. pwd
+32. ls or ls -al
+33. rm -i filename.blah
+34. Because the code can be edited among lots of people.
+35. As often as you want, but frequently
+36. git push -u origin master
+37. Create repo, clone, create branch, add file to project, commit, 
+push to created branch, confirm, create pull request to main file. 
+
+
+Stretch
+1. Inline elements only take as much space as need on a line, whereas block elements take
+up the whole line no matter what.
+2. It can be positioned absolutely anywhere on the html page.
+3. Change its display property to inline;
+4. (div, p, h1)(img, span)();
+5. The box model shows the margin, padding and width and height of the element you are 
+adding CSS to.
